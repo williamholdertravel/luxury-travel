@@ -1,0 +1,25 @@
+<wpml-config>
+  <admin-texts>
+    <key name="wp_travel_settings">
+      <key name="price_unavailable_text"/>
+      <key name="mailchimp">
+        <key name="subscribe_label"/>
+        <key name="subscribe_desc"/>
+      </key>
+      <key name="wishlists">
+        <key name="add_text"/>
+        <key name="remove_text"/>
+      </key>
+      <key name="partial_payment_admin_template">
+        <key name="admin_subject"/>
+        <key name="admin_title"/>
+        <key name="email_content"/>
+      </key>
+      <key name="partial_payment_client_template">
+        <key name="client_subject"/>
+        <key name="client_title"/>
+        <key name="email_content"/>
+      </key>
+    </key>
+  </admin-texts>      
+</wpml-config>
